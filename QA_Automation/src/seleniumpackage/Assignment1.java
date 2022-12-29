@@ -1,5 +1,6 @@
+package seleniumpackage;
 // In this selenium code we are going to  the following:
-//1) If user can navigate from home page to shop page and vise versa
+//1) If user can navigate from home page to shop page and vice versa
 //2) If home page has three sliders
 //3) Each image link under "New Arrivals section is working and user can navigate to that particular page and return back to home page
 //4) if user can navigate to next page by clicking image button and if the user is able to add that book to cart/basket
@@ -23,7 +24,7 @@
 // 13. Check if the review tab below the book shows the review about the book
 // 14. Close the browser
 //-------------------------------------------------------------------------------------------------------------------------------------------------
-package seleniumpackage;
+
 
 import java.util.List;
 
